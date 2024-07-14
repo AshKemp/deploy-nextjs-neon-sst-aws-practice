@@ -5,7 +5,7 @@ export default {
   config(_input) {
     return {
       name: "leads-landing",
-      region: "us-east-1",
+      region: "ap-south-1",
     };
   },
   stacks(app) {
